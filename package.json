@@ -12,7 +12,9 @@
   "dependencies": {
     "@elastic/elasticsearch": "^7.0.0-rc.2",
     "cors": "^2.8.5",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "moving-averages": "^4.0.5",
+    "slayer": "^1.0.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.11"
